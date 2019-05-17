@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.2.0",
+    "@babel/plugin-transform-runtime": "^7.2.0",
+    "@babel/preset-env": "^7.2.0",
+    "autoprefixer": "^9.4.2",
+    "browser-sync": "^2.26.3",
+    "del": "^3.0.0",
+    "gulp": "4.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-cache": "^1.0.2",
+    "gulp-coffee": "latest",
+    "gulp-concat": "latest",
+    "gulp-connect": "latest",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-posthtml": "^3.0.4",
+    "gulp-responsive": "^2.13.0",
+    "gulp-sass": "latest",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "latest",
+    "gulp-uglifycss": "^1.1.0",
+    "gulp-util": "latest",
+    "gulp-wait": "0.0.2",
+    "posthtml-sugar-srcset": "^1.0.1"
+  }
+}

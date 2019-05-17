@@ -1,0 +1,27 @@
+$black:                             #000;
+$white:                             #fff;
+$gray:                              #e7e7e7;
+$orange:                            #ff8c1a;
+$light-green:                       #9fc74e;
+$green:                             #5da743;
+$dark-green:                        #49c31b;
+$light-blue:                        #dcedf7;
+$yellow:                            #fff7d2;
+$dark-gray:                         #363c3e;
+
+$main-text-color:                   $dark-gray;
+$primary-color:                     $orange;
+$body-bg:                           #f2f8fc;
+
+//== Typography
+
+$base-font-sans-serif:           'Lato', 'Arial', 'Helvetica Neue', 'Helvetica', sans-serif;
+$base-font-serif:                'Times New Roman', 'Times', 'Baskerville', 'Georgia', serif;
+$base-font:                      $base-font-sans-serif;
+
+$font-size-base:                 16px;
+$line-height-base:               1.5;
+$font-weight-base:               normal;
+
+$base-min-width:                 320px;
+$max-width-center-container:     1148px;
